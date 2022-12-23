@@ -1,1 +1,3 @@
 # dados-atletas
+Neste segundo projeto final de certificação da DevStart em parceria com o Senai, tem como objetivo criar uma Classe que receberá informações dos atletas (nome, idade, peso, altura e notas).
+Nesta Classe temos alguns métodos nos quais calculam a categoria, o IMC (Índice de Massa Corporal) e a média de notas do atleta. Para o cálculo do IMC, temos um método que divide o peso do atleta por duas vezes a sua altura (peso/altura²). Para o cálculo da média, como no primeiro projeto de certificação, temos um método que ordena as cinco notas recebidas em ordem crescente, e logo após a isso ele remove a menor e a maior nota do atleta. Em seguida, com as notas restantes eles as três notas restantes e divide por 3, obtendo assim a média do atleta.  
